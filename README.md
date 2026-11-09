@@ -62,7 +62,7 @@ The project evaluates three algorithms:
 
 
 
-Logistic Regression
+Logistic Regression.
 
 
 
