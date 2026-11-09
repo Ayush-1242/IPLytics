@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC AUC
+Logistic Regression,0.5181,0.4495,0.4725,0.4377,0.5253
+Random Forest,0.5034,0.4252,0.2732,0.3131,0.47
+XGBoost,0.4882,0.41,0.3542,0.3744,0.4646

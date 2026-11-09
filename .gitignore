@@ -1,0 +1,16 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+.DS_Store
+.vscode/
+
+# Temporary model files
+models/best_model.joblib
+models/*.pkl
+models/metrics.json
+data/raw/

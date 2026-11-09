@@ -1,0 +1,18 @@
+{
+    "selected_model": "Logistic Regression",
+    "selection_metric": "Mean ROC AUC",
+    "selection_method": "Most recent three walk-forward seasons",
+    "seasons_used": [
+        2024,
+        2025,
+        2026
+    ],
+    "model_scores": {
+        "Logistic Regression": 0.4684,
+        "XGBoost": 0.4394,
+        "Random Forest": 0.4182
+    },
+    "training_matches": 1218,
+    "training_data_end": "2026-05-31",
+    "prediction_timing": "Before toss"
+}
